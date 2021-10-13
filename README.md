@@ -10,6 +10,10 @@
 2. Requests
 3. psycopg2
 
+## Setup Dev Environment
+1. Run ```git clone https://github.com/sunilom563/Python-Web-Scraping.git```
+2. Run ```cd Python-Web-Scraping```
+
 ## How To Install Libraries
 Run ```pip install requests beautifulsoup4 psycopg2```
 
